@@ -1,5 +1,6 @@
 ## Macro generator for .odt documents in LibreOffice
 
+<pre>
 ├── Basic
 │   ├── script-lc.xml
 │   └── Standard
@@ -26,7 +27,7 @@
 ├── styles.xml
 └── Thumbnails
     └── thumbnail.png
-
+</pre>
 ## screenshots
 ![alt text](https://github.com/0bfxgh0st/Malicious-ODT/blob/main/screenshots/sample.png)
 ![alt text](https://github.com/0bfxgh0st/Malicious-ODT/blob/main/screenshots/lin.png)
