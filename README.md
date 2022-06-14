@@ -1,6 +1,6 @@
 (under dev)
 ## Malicious Macro Generator LibreOffice
-for .odt and .ods documents in LibreOffice
+for .odt, .ods and .odb documents in LibreOffice
 
 ## old screenshots
 ![alt text](https://github.com/0bfxgh0st/Malicious-ODT/blob/main/screenshots/sample.png)
