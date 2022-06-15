@@ -4,6 +4,7 @@
 `.ods` Calc Spreadsheet    
 `.odb` Base Database  
 `.odp` Impress Presentation  
+`.odg` Draw Drawing  
 ## old screenshots
 ![alt text](https://github.com/0bfxgh0st/Malicious-ODT/blob/main/screenshots/sample.png)
 ![alt text](https://github.com/0bfxgh0st/Malicious-ODT/blob/main/screenshots/lin.png)
